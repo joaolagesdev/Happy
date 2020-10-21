@@ -1,2 +1,2 @@
 # Happy
-Aplicação criada durante a Next Level Week 3 da Rocketseat
+My implementation for Next Level Week 3: Project Happy!
